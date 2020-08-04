@@ -1,0 +1,2 @@
+The FinalWeights.h5 file of this model is too big to place on github. 
+If you'd be interested to have this file, please send an email to r.j.g.v.sloun@tue.nl to request it.
